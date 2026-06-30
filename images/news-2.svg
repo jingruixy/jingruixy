@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="n2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#n2)"/>
+  <g transform="translate(150, 80)">
+    <rect x="0" y="0" width="500" height="290" rx="20" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.1)"/>
+    <rect x="30" y="30" width="200" height="20" rx="4" fill="rgba(204,0,0,0.6)"/>
+    <rect x="30" y="70" width="440" height="14" rx="4" fill="rgba(255,255,255,0.3)"/>
+    <rect x="30" y="100" width="400" height="14" rx="4" fill="rgba(255,255,255,0.2)"/>
+    <rect x="30" y="130" width="350" height="14" rx="4" fill="rgba(255,255,255,0.2)"/>
+    <rect x="30" y="180" width="120" height="80" rx="8" fill="rgba(204,0,0,0.3)"/>
+    <rect x="170" y="180" width="120" height="80" rx="8" fill="rgba(0,102,255,0.3)"/>
+    <rect x="310" y="180" width="120" height="80" rx="8" fill="rgba(255,255,255,0.1)"/>
+  </g>
+</svg>
